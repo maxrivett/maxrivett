@@ -1,4 +1,6 @@
-### Hi there 👋
+### Max Rivett
+
+[![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxrivett)](https://github.com/maxrivett/github-readme-stats)
 
 <!--
 **maxrivett/maxrivett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
