@@ -2,7 +2,7 @@
 
 ![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxrivett&count_private=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats-maxrivett.vercel.app/api/top-langs/?username=maxrivett&layout=compact&langs_count=10&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxrivett&hide_progress=true&theme=dracula)](https://github.com/maxrivett/github-readme-stats)
 
 <!--
 **maxrivett/maxrivett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
